@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	    xsi:noNamespaceSchemaLocation="movies.xsd">
+	
+	<movie> 
+		<title>Taken</title> 
+		<year>2009</year> 
+		<genre>action</genre> 
+	</movie>
+	<actors> 
+		<actor>
+			<name>Liam Neeson</name> 
+			<dateOfBirth>1952-07-07</dateOfBirth> 
+		<actor>
+		
+		<actor>
+			<name>Maggie Grace</name> 
+			<dateOfBirth>1983-09-05</dateOfBirth> 
+		<actor>
+	</actors> 
+	
+	<movie> 
+		<title>New Movie</title> 
+		<year>2018</year> 
+		<genre>comedy</genre> 
+	</movie>
+	<actors> 
+		<actor>
+			<name>Shawn McCarthy</name> 
+			<dateOfBirth>2018-02-05</dateOfBirth> 
+		<actor>
+		
+		<actor>
+			<name>Taylor Daly</name> 
+			<dateOfBirth>2018-02-05</dateOfBirth> 
+		<actor>
+	</actors> 
+	
+	
+</movies>
